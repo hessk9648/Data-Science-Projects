@@ -1,0 +1,16 @@
+beautifulsoup4
+colorama
+joblib
+lightgbm
+matplotlib
+mlflow
+nltk
+numpy
+openai
+pandas
+requests
+scikit-learn
+seaborn
+textblob
+tiktoken
+vaderSentiment
